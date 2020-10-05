@@ -31,7 +31,7 @@ To contribute make sure the Algorithm isn't commited yet! Make sure to add the n
 
 ### Folders and Files
 Please make sure your file is in the `LeetCode`-Folder and Named like this:
-`0001_TwoSum.py` -> 4-digit Number of the LeetCode Issue, Underscore, LeetCodeName
+`0001_TwoSum.py` -> 4-digit Number of the LeetCode Issue, Underscore, LeetCodeName.
 
 ### Opening Issues
 When you open an issue, please make sure the Problem is not already implemented (Look at Code/Leetcode for the Problemnumber). 
